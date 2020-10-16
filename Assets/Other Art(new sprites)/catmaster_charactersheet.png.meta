@@ -1,0 +1,1462 @@
+fileFormatVersion: 2
+guid: 067bf424aee214e698b52715eb0487a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4436663933381758695
+    second: catmaster_charactersheet_0
+  - first:
+      213: 1142047879111660704
+    second: catmaster_charactersheet_1
+  - first:
+      213: -2281405524439707684
+    second: catmaster_charactersheet_2
+  - first:
+      213: -3734077559556383648
+    second: catmaster_charactersheet_3
+  - first:
+      213: -8421622955697061725
+    second: catmaster_charactersheet_4
+  - first:
+      213: -2652187016764732428
+    second: catmaster_charactersheet_5
+  - first:
+      213: -4492852910289422862
+    second: catmaster_charactersheet_6
+  - first:
+      213: 7552747199638794132
+    second: catmaster_charactersheet_7
+  - first:
+      213: -4898644581567144149
+    second: catmaster_charactersheet_8
+  - first:
+      213: -3761043979493575771
+    second: catmaster_charactersheet_9
+  - first:
+      213: -5142966218194712293
+    second: catmaster_charactersheet_10
+  - first:
+      213: 5333975000914209545
+    second: catmaster_charactersheet_11
+  - first:
+      213: -4701601885080992871
+    second: catmaster_charactersheet_12
+  - first:
+      213: -3436531141337776630
+    second: catmaster_charactersheet_13
+  - first:
+      213: 2798049819306598355
+    second: catmaster_charactersheet_14
+  - first:
+      213: -2373631548527640168
+    second: catmaster_charactersheet_15
+  - first:
+      213: -9132041901294402458
+    second: catmaster_charactersheet_16
+  - first:
+      213: -5422025525584029312
+    second: catmaster_charactersheet_17
+  - first:
+      213: 1679580550049509563
+    second: catmaster_charactersheet_18
+  - first:
+      213: -3748967254729018139
+    second: catmaster_charactersheet_19
+  - first:
+      213: 6511055861794511976
+    second: catmaster_charactersheet_20
+  - first:
+      213: -7827173556070430136
+    second: catmaster_charactersheet_21
+  - first:
+      213: 185536743963795253
+    second: catmaster_charactersheet_22
+  - first:
+      213: -5871561140092399963
+    second: catmaster_charactersheet_23
+  - first:
+      213: 5448331653248779084
+    second: catmaster_charactersheet_24
+  - first:
+      213: -3783248890629677326
+    second: catmaster_charactersheet_25
+  - first:
+      213: 3231250939010727839
+    second: catmaster_charactersheet_26
+  - first:
+      213: 3271607581618103033
+    second: catmaster_charactersheet_27
+  - first:
+      213: -1379271894269045874
+    second: catmaster_charactersheet_28
+  - first:
+      213: 2606355501270492774
+    second: catmaster_charactersheet_29
+  - first:
+      213: 6338523985459788302
+    second: catmaster_charactersheet_30
+  - first:
+      213: -2232455270763602774
+    second: catmaster_charactersheet_31
+  - first:
+      213: -2874422563525258862
+    second: catmaster_charactersheet_32
+  - first:
+      213: 2764959713425732924
+    second: catmaster_charactersheet_33
+  - first:
+      213: -310554598487214178
+    second: catmaster_charactersheet_34
+  - first:
+      213: -8711782231192809922
+    second: catmaster_charactersheet_35
+  - first:
+      213: 8597509583210259440
+    second: catmaster_charactersheet_36
+  - first:
+      213: -2378846893462812235
+    second: catmaster_charactersheet_37
+  - first:
+      213: -3186347170325139540
+    second: catmaster_charactersheet_38
+  - first:
+      213: 493033676450136466
+    second: catmaster_charactersheet_39
+  - first:
+      213: 2806713445224439602
+    second: catmaster_charactersheet_40
+  - first:
+      213: 5423071874220463158
+    second: catmaster_charactersheet_41
+  - first:
+      213: 5490988037563020732
+    second: catmaster_charactersheet_42
+  - first:
+      213: 6047807274068797294
+    second: catmaster_charactersheet_43
+  - first:
+      213: 2835435140887857528
+    second: catmaster_charactersheet_44
+  - first:
+      213: 940190732527385884
+    second: catmaster_charactersheet_45
+  - first:
+      213: -2698950124676984362
+    second: catmaster_charactersheet_46
+  - first:
+      213: 4600319608482922167
+    second: catmaster_charactersheet_47
+  - first:
+      213: -7191436384834399264
+    second: catmaster_charactersheet_48
+  - first:
+      213: -7766341134893394093
+    second: catmaster_charactersheet_49
+  - first:
+      213: 4854569548436565406
+    second: catmaster_charactersheet_50
+  - first:
+      213: 4382639143531946879
+    second: catmaster_charactersheet_51
+  - first:
+      213: 1503973972385571442
+    second: catmaster_charactersheet_52
+  - first:
+      213: 2631801407286156454
+    second: catmaster_charactersheet_53
+  - first:
+      213: 1831840374647778506
+    second: catmaster_charactersheet_54
+  - first:
+      213: 6530538528299188146
+    second: catmaster_charactersheet_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: catmaster_charactersheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 267
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9113ef6b8adcd62c0800000000000000
+      internalID: -4436663933381758695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 267
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a450f6ce7e59df00800000000000000
+      internalID: 1142047879111660704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 267
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf482f43c1d650e0800000000000000
+      internalID: -2281405524439707684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c52ea5e34ed2cc0800000000000000
+      internalID: -3734077559556383648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 267
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0c66d9a82602b80800000000000000
+      internalID: -8421622955697061725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 267
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbc5dbc5f9813bd0800000000000000
+      internalID: -2652187016764732428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 267
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f57e1e051e26a1c0800000000000000
+      internalID: -4492852910289422862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49febc8df8fb0d860800000000000000
+      internalID: 7552747199638794132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 243
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f5cca05b4840cb0800000000000000
+      internalID: -4898644581567144149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 243
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3f9a17d661ecbc0800000000000000
+      internalID: -3761043979493575771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 243
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b198ba0297380a8b0800000000000000
+      internalID: -5142966218194712293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 243
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b2e42b006160a40800000000000000
+      internalID: 5333975000914209545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 243
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993c074eefd80ceb0800000000000000
+      internalID: -4701601885080992871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 243
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e7efc622dfe40d0800000000000000
+      internalID: -3436531141337776630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 243
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df9d976c7ba4d620800000000000000
+      internalID: 2798049819306598355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 243
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918952ceaa2f0fd0800000000000000
+      internalID: -2373631548527640168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 208
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6644d5f3648744180800000000000000
+      internalID: -9132041901294402458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 208
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0899678f28811c4b0800000000000000
+      internalID: -5422025525584029312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 208
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb03b598c911f4710800000000000000
+      internalID: 1679580550049509563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 209
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e43e4b052ef8fbc0800000000000000
+      internalID: -3748967254729018139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c9cfa2fcaeb5a50800000000000000
+      internalID: 6511055861794511976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_21
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a4713fe1b406390800000000000000
+      internalID: -7827173556070430136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f9eb48fa8239200800000000000000
+      internalID: 185536743963795253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 211
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0ecf7046048ea0800000000000000
+      internalID: -5871561140092399963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 184
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43096aa5cc5c9b40800000000000000
+      internalID: 5448331653248779084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 184
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe9021bd233f7bc0800000000000000
+      internalID: -3783248890629677326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 184
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fb1efeb95b7dc20800000000000000
+      internalID: 3231250939010727839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f262d203c5176d20800000000000000
+      internalID: 3271607581618103033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 186
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83d9651587dbdce0800000000000000
+      internalID: -1379271894269045874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 186
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666ec93f482ab2420800000000000000
+      internalID: 2606355501270492774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 186
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0abf995bf5f6f750800000000000000
+      internalID: 6338523985459788302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacdf2162c9b401e0800000000000000
+      internalID: -2232455270763602774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 147
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29195b668effb18d0800000000000000
+      internalID: -2874422563525258862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 147
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35b101c53c1f5620800000000000000
+      internalID: 2764959713425732924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 147
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e973ec1fc30b0bbf0800000000000000
+      internalID: -310554598487214178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 148
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e413db738891780800000000000000
+      internalID: -8711782231192809922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_36
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3a3441a6d705770800000000000000
+      internalID: 8597509583210259440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b98b14aa53acfed0800000000000000
+      internalID: -2378846893462812235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafe2bd6122d7c3d0800000000000000
+      internalID: -3186347170325139540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_39
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 151
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918d1b348b97d600800000000000000
+      internalID: 493033676450136466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f5ae0020373f620800000000000000
+      internalID: 2806713445224439602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634925e032f924b40800000000000000
+      internalID: 5423071874220463158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_42
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5fcd41788e33c40800000000000000
+      internalID: 5490988037563020732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e4e05ca02ee350800000000000000
+      internalID: 6047807274068797294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 126
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c744ec3d795720800000000000000
+      internalID: 2835435140887857528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 126
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db8696d7a3c0d00800000000000000
+      internalID: 940190732527385884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 126
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1d12849276b8ad0800000000000000
+      internalID: -2698950124676984362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 126
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be73e47f4e97df30800000000000000
+      internalID: 4600319608482922167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 89
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e35029b5b2e23c90800000000000000
+      internalID: -7191436384834399264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_49
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 89
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357dc2ab2e9683490800000000000000
+      internalID: -7766341134893394093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 89
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d6dff9845ee5340800000000000000
+      internalID: 4854569548436565406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 90
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73a1f0b41342dc30800000000000000
+      internalID: 4382639143531946879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 65
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a9770c503fd410800000000000000
+      internalID: 1503973972385571442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 65
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac1aa0af69068420800000000000000
+      internalID: 2631801407286156454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 65
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc69108d110c6910800000000000000
+      internalID: 1831840374647778506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catmaster_charactersheet_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf7643f03221aa50800000000000000
+      internalID: 6530538528299188146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
