@@ -8,6 +8,7 @@ namespace RPGM.UI
 {
     public class DialogController : MonoBehaviour
     {
+        public ParticleSystem psConvo;
         public DialogLayout dialogLayout;
 
         public System.Action<int> onButton;
@@ -68,6 +69,9 @@ namespace RPGM.UI
 
         public void Show(Vector3 position, string text)
         {
+            psConvo = GameObject.Find("HH Particle System").GetComponent<ParticleSystem>();
+            psConvo.Play();
+
             var d = dialogLayout;
             d.gameObject.SetActive(true);
             d.SetText(text);
