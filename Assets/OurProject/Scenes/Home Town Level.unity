@@ -28653,7 +28653,7 @@ PrefabInstance:
     - target: {fileID: 4313844411128732863, guid: 81816288a86af46c598e1fa3b10e24a4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.0026790581
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4313844411128732863, guid: 81816288a86af46c598e1fa3b10e24a4,
         type: 3}
@@ -35277,6 +35277,10 @@ PrefabInstance:
       propertyPath: items.Array.data[0].text
       value: Meow! People say I look like a chicken but I'm actually a cat! Meow
       objectReference: {fileID: 0}
+    - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
+      propertyPath: items.Array.data[0].audio
+      value: 
+      objectReference: {fileID: 8300000, guid: 21554fbce2c5f704fa8305bf041c3082, type: 3}
     - target: {fileID: 8835582639856596520, guid: 74b5c6b26f0fc4028b9aac1a7a36767d,
         type: 3}
       propertyPath: m_Controller
@@ -40516,7 +40520,7 @@ PrefabInstance:
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.313131
+      value: -4.3091097
       objectReference: {fileID: 0}
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
@@ -40573,6 +40577,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: DialogController
       objectReference: {fileID: 0}
+    - target: {fileID: 4429411697731864420, guid: ab3f7178010354d87a5016c7d6b23a5a,
+        type: 3}
+      propertyPath: psConvo
+      value: 
+      objectReference: {fileID: 1659744892}
     m_RemovedComponents:
     - {fileID: 1057964449414330145, guid: ab3f7178010354d87a5016c7d6b23a5a, type: 3}
     - {fileID: 1057964449276369590, guid: ab3f7178010354d87a5016c7d6b23a5a, type: 3}
@@ -40682,6 +40691,10 @@ PrefabInstance:
       propertyPath: items.Array.data[0].text
       value: move around with the arrow keys and press space bar to end conversation
       objectReference: {fileID: 0}
+    - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
+      propertyPath: items.Array.data[0].audio
+      value: 
+      objectReference: {fileID: 8300000, guid: 21554fbce2c5f704fa8305bf041c3082, type: 3}
     - target: {fileID: 8835582639856596520, guid: 74b5c6b26f0fc4028b9aac1a7a36767d,
         type: 3}
       propertyPath: m_Controller
@@ -40772,6 +40785,10 @@ PrefabInstance:
       propertyPath: items.Array.data[0].text
       value: There's ladies in there
       objectReference: {fileID: 0}
+    - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
+      propertyPath: items.Array.data[0].audio
+      value: 
+      objectReference: {fileID: 8300000, guid: ce8cc5626c5d7274aa7d1f7c03746429, type: 3}
     - target: {fileID: 8835582639856596520, guid: 74b5c6b26f0fc4028b9aac1a7a36767d,
         type: 3}
       propertyPath: m_Controller
@@ -41158,7 +41175,7 @@ PrefabInstance:
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -12.071944
+      value: -12.065508
       objectReference: {fileID: 0}
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
