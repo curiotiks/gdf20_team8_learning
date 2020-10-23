@@ -2,6 +2,48 @@
 
 
 
+## Oct. 23rd, 2020 - Just next steps
+
+### Particle Effects
+
+* Lee has already made one
+* Adding particles coming out of MC's mouth when she speaks
+* Make a little test-tube with smoke/bubbles coming out of the top 
+  * Can Emma make a small test-tube 
+
+### Graphic Design
+
+* Emma not present
+
+### Scripting/Narration
+
+* Alessandra has added fallacies into the script with examples 
+* Completing dialogues
+
+### Unity Dev
+
+* Fixed the broken door issue. Script didn't carry over because it wasn't a prefab. Must make changes to prefabs. 
+* Curt see if possible to save building layouts to palette
+* Lee is going to start working on getting some dialogue going. 
+  * Decisions
+* Alessandra is adding sound to chicken
+* Include a barrier at the transition point at the edge of town
+  * Also has a NPC there that ask, "Are you sure you've spoken to everyone. I know X, Y, and Z wanted to see you before you left." 
+  * Player can say yes anyways and move on (autonomy) or say no and go back to talk to the rest of the people. 
+
+### Assignment 11 
+
+* Magic chickens are an important instructional agent, so the particle effects draw attention to the chickens. 
+* 
+
+
+
+
+
+---
+
+
+
 ## Oct. 16th, 2020
 
 ### Graphic Design
