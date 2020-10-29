@@ -1,7 +1,46 @@
 fileFormatVersion: 2
 guid: 4eab707a6a485481b9b5a5b37fa1977b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 8037194207295083910
+    second: testtube_objectsheet_0
+  - first:
+      213: 8738206708921429576
+    second: testtube_objectsheet_1
+  - first:
+      213: -3863344962879369947
+    second: testtube_objectsheet_2
+  - first:
+      213: 1121996991686669936
+    second: testtube_objectsheet_3
+  - first:
+      213: -3518472710995348296
+    second: testtube_objectsheet_4
+  - first:
+      213: -6172466094283467360
+    second: testtube_objectsheet_5
+  - first:
+      213: 2219381502433663251
+    second: testtube_objectsheet_6
+  - first:
+      213: -5648453052011494405
+    second: testtube_objectsheet_7
+  - first:
+      213: -6952938024343446025
+    second: testtube_objectsheet_8
+  - first:
+      213: -5410363166223778095
+    second: testtube_objectsheet_9
+  - first:
+      213: -881009788136752983
+    second: testtube_objectsheet_10
+  - first:
+      213: -5499636769325638987
+    second: testtube_objectsheet_11
+  - first:
+      213: 5162238410613809530
+    second: testtube_objectsheet_12
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -46,7 +85,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,9 +136,294 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: testtube_objectsheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 84
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68596a47c89d98f60800000000000000
+      internalID: 8037194207295083910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testtube_objectsheet_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 84
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e623b64b8544970800000000000000
+      internalID: 8738206708921429576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testtube_objectsheet_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 84
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dc7c2a934a26ac0800000000000000
+      internalID: -3863344962879369947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testtube_objectsheet_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 82
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0767a80c152229f00800000000000000
+      internalID: 1121996991686669936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testtube_objectsheet_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 82
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4773506bfdb2fc0800000000000000
+      internalID: -3518472710995348296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testtube_objectsheet_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a557165acef65aa0800000000000000
+      internalID: -6172466094283467360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testtube_objectsheet_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 58
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31991a9b7b3dcce10800000000000000
+      internalID: 2219381502433663251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testtube_objectsheet_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 58
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3426040e9ac91b0800000000000000
+      internalID: -5648453052011494405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testtube_objectsheet_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 35
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdd3b184b3328f90800000000000000
+      internalID: -6952938024343446025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testtube_objectsheet_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 35
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1debf5b9d578ae4b0800000000000000
+      internalID: -5410363166223778095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testtube_objectsheet_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a87776f34606c3f0800000000000000
+      internalID: -881009788136752983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testtube_objectsheet_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 35
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba1ba22f7d5da3b0800000000000000
+      internalID: -5499636769325638987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testtube_objectsheet_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 7
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a716386db74f3a740800000000000000
+      internalID: 5162238410613809530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
