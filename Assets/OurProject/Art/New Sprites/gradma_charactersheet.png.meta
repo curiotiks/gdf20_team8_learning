@@ -1,0 +1,670 @@
+fileFormatVersion: 2
+guid: da7b2827520634e88a304228d3680baa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7221529500380004923
+    second: gradma_charactersheet_0
+  - first:
+      213: -3803820030655057601
+    second: gradma_charactersheet_1
+  - first:
+      213: 6093858918965713873
+    second: gradma_charactersheet_2
+  - first:
+      213: 406501231202745651
+    second: gradma_charactersheet_3
+  - first:
+      213: -7228001483302292288
+    second: gradma_charactersheet_4
+  - first:
+      213: 5190240377340523688
+    second: gradma_charactersheet_5
+  - first:
+      213: 5922187147376070639
+    second: gradma_charactersheet_6
+  - first:
+      213: 6156171058671089420
+    second: gradma_charactersheet_7
+  - first:
+      213: 8605270862686076533
+    second: gradma_charactersheet_8
+  - first:
+      213: -1071700070245187724
+    second: gradma_charactersheet_9
+  - first:
+      213: 6841195443936596372
+    second: gradma_charactersheet_10
+  - first:
+      213: -8758031489820650269
+    second: gradma_charactersheet_11
+  - first:
+      213: 5881800987345689855
+    second: gradma_charactersheet_12
+  - first:
+      213: -8605395551332839120
+    second: gradma_charactersheet_13
+  - first:
+      213: 5645454736570084982
+    second: gradma_charactersheet_14
+  - first:
+      213: 154858153648133257
+    second: gradma_charactersheet_15
+  - first:
+      213: 5429035979355778199
+    second: gradma_charactersheet_16
+  - first:
+      213: 7572206252462544282
+    second: gradma_charactersheet_17
+  - first:
+      213: 5140500413746508405
+    second: gradma_charactersheet_18
+  - first:
+      213: 5125770286545909701
+    second: gradma_charactersheet_19
+  - first:
+      213: 1471694092843293772
+    second: gradma_charactersheet_20
+  - first:
+      213: 4639624573897171636
+    second: gradma_charactersheet_21
+  - first:
+      213: -4856288721408854494
+    second: gradma_charactersheet_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gradma_charactersheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 155
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32872db1d6083460800000000000000
+      internalID: 7221529500380004923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 155
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313a4be5dd163bc0800000000000000
+      internalID: -3803820030655057601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 155
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db1c40766cb19450800000000000000
+      internalID: 6093858918965713873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 112
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d399e47be24a500800000000000000
+      internalID: 406501231202745651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 112
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c435cf42faf0bb90800000000000000
+      internalID: -7228001483302292288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 112
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a47546cf10770840800000000000000
+      internalID: 5190240377340523688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 112
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0cbc55d5df2250800000000000000
+      internalID: 5922187147376070639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 112
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0771a806fc1f6550800000000000000
+      internalID: 6156171058671089420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 112
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e3c66c1401c6770800000000000000
+      internalID: 8605270862686076533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 112
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f3647d67e8021f0800000000000000
+      internalID: -1071700070245187724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 112
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4919cd2920fc0fe50800000000000000
+      internalID: 6841195443936596372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 69
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e41e8513c8357680800000000000000
+      internalID: -8758031489820650269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc184ab5da50a150800000000000000
+      internalID: 5881800987345689855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 69
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0315413e65e739880800000000000000
+      internalID: -8605395551332839120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 69
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e6ec80c2fa85e40800000000000000
+      internalID: 5645454736570084982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 69
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98415c69baa262200800000000000000
+      internalID: 154858153648133257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 69
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ce05e757fc75b40800000000000000
+      internalID: 5429035979355778199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 30
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a959504a771e51960800000000000000
+      internalID: 7572206252462544282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 30
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572fb1904e9b65740800000000000000
+      internalID: 5140500413746508405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 30
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c732d90be4622740800000000000000
+      internalID: 5125770286545909701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 30
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c17f5eaf18c6410800000000000000
+      internalID: 1471694092843293772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 30
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2605ad7f1436040800000000000000
+      internalID: 4639624573897171636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradma_charactersheet_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 30
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22670b9332ffa9cb0800000000000000
+      internalID: -4856288721408854494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
