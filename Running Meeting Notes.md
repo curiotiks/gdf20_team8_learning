@@ -1,6 +1,30 @@
 ## Meeting Notes
 
+## Nov. 6th, 2020
 
+We're getting close. Need to pare down to bare minimum. Now we'll reduce to introductory scene, then just go to Covidia and the mayor presents the two choices. A fallacy and a logical solution. The player then chooses. 
+
+### Unity Dev
+
+* Quest path for scene and back. Needs object "solve" the quest. 
+* Started the scene transition
+
+### Next Steps
+
+* Lee is working on quest transfer (scene transition)
+* Matt is dropping NPCs in with conversation scripts
+* Curt is going to figure out override controllers. 
+  * 
+
+
+
+## Oct. 30th, 2020
+
+### Updates
+
+* Emma uploaded sick villagers and puking villager and grandma character
+* Lee uploaded the particle effect assignment
+* Curt has been writing script
 
 ## Oct. 23rd, 2020 - Just next steps
 
