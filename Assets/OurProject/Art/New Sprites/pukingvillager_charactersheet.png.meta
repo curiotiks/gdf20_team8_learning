@@ -137,6 +137,141 @@ TextureImporter:
   - first:
       213: -4353082194890503522
     second: pukingvillager_charactersheet_44
+  - first:
+      213: -6081951803297751004
+    second: pukingvillager_charactersheet_0
+  - first:
+      213: 748016446823689796
+    second: pukingvillager_charactersheet_1
+  - first:
+      213: 2948264241983250029
+    second: pukingvillager_charactersheet_2
+  - first:
+      213: -3582640469114924816
+    second: pukingvillager_charactersheet_3
+  - first:
+      213: 9087414106149291793
+    second: pukingvillager_charactersheet_4
+  - first:
+      213: 3790204789288629637
+    second: pukingvillager_charactersheet_5
+  - first:
+      213: -2985022299525989209
+    second: pukingvillager_charactersheet_6
+  - first:
+      213: 4583655508493428972
+    second: pukingvillager_charactersheet_7
+  - first:
+      213: 585032805647722611
+    second: pukingvillager_charactersheet_8
+  - first:
+      213: 7693620386233467261
+    second: pukingvillager_charactersheet_9
+  - first:
+      213: -2339083709833471942
+    second: pukingvillager_charactersheet_10
+  - first:
+      213: -6973410118250032390
+    second: pukingvillager_charactersheet_11
+  - first:
+      213: 2161862293232782391
+    second: pukingvillager_charactersheet_12
+  - first:
+      213: -3824173079508365094
+    second: pukingvillager_charactersheet_13
+  - first:
+      213: -3921899057312406725
+    second: pukingvillager_charactersheet_14
+  - first:
+      213: 7421944474429985400
+    second: pukingvillager_charactersheet_15
+  - first:
+      213: 304722830237255238
+    second: pukingvillager_charactersheet_16
+  - first:
+      213: -3085172588233201922
+    second: pukingvillager_charactersheet_17
+  - first:
+      213: -5871584700177549467
+    second: pukingvillager_charactersheet_18
+  - first:
+      213: 8464604720191144032
+    second: pukingvillager_charactersheet_19
+  - first:
+      213: -3373992067652481995
+    second: pukingvillager_charactersheet_20
+  - first:
+      213: -392573851224166559
+    second: pukingvillager_charactersheet_21
+  - first:
+      213: 863226991736703431
+    second: pukingvillager_charactersheet_22
+  - first:
+      213: 1806088091917652959
+    second: pukingvillager_charactersheet_23
+  - first:
+      213: 2811604538379237087
+    second: pukingvillager_charactersheet_24
+  - first:
+      213: -6119097654558035653
+    second: pukingvillager_charactersheet_25
+  - first:
+      213: -2571156021821673039
+    second: pukingvillager_charactersheet_26
+  - first:
+      213: -5470761946890100060
+    second: pukingvillager_charactersheet_27
+  - first:
+      213: 5739384849800865373
+    second: pukingvillager_charactersheet_28
+  - first:
+      213: 2228859578523325365
+    second: pukingvillager_charactersheet_29
+  - first:
+      213: -3327948923904945835
+    second: pukingvillager_charactersheet_30
+  - first:
+      213: -6518830667705085589
+    second: pukingvillager_charactersheet_31
+  - first:
+      213: 2992055330248304258
+    second: pukingvillager_charactersheet_32
+  - first:
+      213: -2549571360240445352
+    second: pukingvillager_charactersheet_33
+  - first:
+      213: -4230869232895566679
+    second: pukingvillager_charactersheet_34
+  - first:
+      213: -7451543912042624546
+    second: pukingvillager_charactersheet_35
+  - first:
+      213: 4871916309655353491
+    second: pukingvillager_charactersheet_36
+  - first:
+      213: -2814333868042426873
+    second: pukingvillager_charactersheet_37
+  - first:
+      213: 5973092774911444500
+    second: pukingvillager_charactersheet_38
+  - first:
+      213: 4677997790773107403
+    second: pukingvillager_charactersheet_39
+  - first:
+      213: -5731980790181583695
+    second: pukingvillager_charactersheet_40
+  - first:
+      213: -8795499648200612943
+    second: pukingvillager_charactersheet_41
+  - first:
+      213: -170909129439901782
+    second: pukingvillager_charactersheet_42
+  - first:
+      213: 5582691844812871389
+    second: pukingvillager_charactersheet_43
+  - first:
+      213: 4198728280730911382
+    second: pukingvillager_charactersheet_44
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -167,7 +302,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -181,7 +316,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 45
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -232,9 +367,966 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58e6305516673a90800000000000000
+      internalID: -7334281226423441314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6a4e31723856160800000000000000
+      internalID: 7018159798187501225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 187
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8404a6f5cf70c70800000000000000
+      internalID: 8937389472274729210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 155
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fb96a07a77008d0800000000000000
+      internalID: -2882172202199171317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 193
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808c0e1f163c79550800000000000000
+      internalID: 6167613040144467976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 155
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af615a25b737f580800000000000000
+      internalID: -8793498496179015768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 155
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686c63f0b3e0694e0800000000000000
+      internalID: -1975375739734276474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 186
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9414de36cdea4380800000000000000
+      internalID: -8986108670751009633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 155
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738dcd7a82cb67750800000000000000
+      internalID: 6302431611352569911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 148
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e771a6487049a3020800000000000000
+      internalID: 2322331317870139262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 150
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e55c59e37f474a0800000000000000
+      internalID: -6596375706018161138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601500cb848cb05a0800000000000000
+      internalID: -6553924617990287098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 148
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1502c12867f927b10800000000000000
+      internalID: 1977818517706907729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2593ea2cede9ee870800000000000000
+      internalID: 8714077008594614610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d709de6afbbb80800000000000000
+      internalID: -8377827327798161274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 148
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099e7ae79f7e8a910800000000000000
+      internalID: 1848982705793395088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 150
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8e4d09f090964f0800000000000000
+      internalID: -835126293441484601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 144
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46574a11de3ad9410800000000000000
+      internalID: 1485523690700698980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 112
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02fa6090059c1a90800000000000000
+      internalID: -7341829462865284596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc69026c4524fc50800000000000000
+      internalID: 6698019555799297212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 112
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81435b9be288f6a30800000000000000
+      internalID: 4210733910880236568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 112
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a057526f313f8620800000000000000
+      internalID: 2778493643413475497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260436c08aba40430800000000000000
+      internalID: 3748309528129781858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 112
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b18e6638f6d6f00800000000000000
+      internalID: 1111667293188266799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 112
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ea0fa8a8b1953b0800000000000000
+      internalID: -5523353186142736758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f89bf0e0ccfe3b0800000000000000
+      internalID: -5480937860721176791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 112
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc13290e68722030800000000000000
+      internalID: 3468467077023734971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 87
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3199b2602dc22f80800000000000000
+      internalID: -8132712438098718401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 93
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e3a24dfd77d1550800000000000000
+      internalID: 6133190070769434234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 91
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf1542f8139adf80800000000000000
+      internalID: -8080984846009819191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 88
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2418c1271f67f05b0800000000000000
+      internalID: -5399966648820268734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 93
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20748d65357495380800000000000000
+      internalID: -8982069558548871422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 91
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5979a4427aae89ce0800000000000000
+      internalID: -1398109680709232747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ec8f8dead18b800800000000000000
+      internalID: 628284784819883617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 93
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d28613e9fef0760800000000000000
+      internalID: 7426417773270019336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_35
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 91
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55925294ae6e536c0800000000000000
+      internalID: -4164168386510247595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 55
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b92162c9a16ab70800000000000000
+      internalID: 8909838170755078953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c585e2f0dca8719c0800000000000000
+      internalID: -3956541134294067108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 55
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d1c464807c0ab0800000000000000
+      internalID: -5040530169006009066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_39
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 55
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a9cb193c2087ee0800000000000000
+      internalID: -1263256656490489284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_40
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3a92d87080c35a0800000000000000
+      internalID: -6540343730322693128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 55
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b99b2944b8328f0800000000000000
+      internalID: -566456001482876025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 55
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dd5f4f504d992b0800000000000000
+      internalID: -5577193541471970043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e37e9f9b477c5a30800000000000000
+      internalID: 4205367318741414887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pukingvillager_charactersheet_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 55
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a497faeceb693c0800000000000000
+      internalID: -4353082194890503522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
