@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/OurProject/Scenes/Home Town Level.unity
+    guid: 383685784fe984649831fead69979730
+  - enabled: 1
+    path: Assets/OurProject/Scenes/Covidia.unity
+    guid: 2ea7383a0a8af431080e0aa251ee7115
   m_configObjects: {}
