@@ -14,6 +14,6 @@ public class ToHomeScript : MonoBehaviour
     // trigger next scene
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 }
