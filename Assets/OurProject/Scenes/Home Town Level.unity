@@ -17268,7 +17268,7 @@ PrefabInstance:
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[9].second.m_AnimationSpeed
-      value: 3
+      value: 3.0000002
       objectReference: {fileID: 0}
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -17404,7 +17404,7 @@ PrefabInstance:
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[11].second.m_AnimationSpeed
-      value: 3.0000002
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -23236,7 +23236,7 @@ PrefabInstance:
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[9].second.m_AnimationSpeed
-      value: 3
+      value: 3.0000002
       objectReference: {fileID: 0}
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -23650,7 +23650,7 @@ PrefabInstance:
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[13].second.m_AnimationSpeed
-      value: 3
+      value: 3.0000002
       objectReference: {fileID: 0}
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -25705,7 +25705,7 @@ PrefabInstance:
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[16].second.m_AnimationSpeed
-      value: 3
+      value: 3.0000002
       objectReference: {fileID: 0}
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -25841,7 +25841,7 @@ PrefabInstance:
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[18].second.m_AnimationSpeed
-      value: 3
+      value: 3.0000002
       objectReference: {fileID: 0}
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -26187,7 +26187,7 @@ PrefabInstance:
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[22].second.m_AnimationSpeed
-      value: 3.0000002
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -28893,7 +28893,7 @@ PrefabInstance:
     - target: {fileID: 4313844411128732863, guid: 81816288a86af46c598e1fa3b10e24a4,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.048
+      value: -2.047335
       objectReference: {fileID: 0}
     - target: {fileID: 4313844411128732863, guid: 81816288a86af46c598e1fa3b10e24a4,
         type: 3}
@@ -38323,7 +38323,12 @@ PrefabInstance:
     - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
         type: 3}
       propertyPath: items.Array.size
-      value: 1
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
+        type: 3}
+      propertyPath: items.Array.data[0].options.Array.size
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
         type: 3}
@@ -38339,7 +38344,47 @@ PrefabInstance:
         type: 3}
       propertyPath: items.Array.data[0].quest
       value: 
-      objectReference: {fileID: 1760361191}
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
+        type: 3}
+      propertyPath: items.Array.data[1].id
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
+        type: 3}
+      propertyPath: items.Array.data[1].text
+      value: Come back and tell me when you find something that can help.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
+        type: 3}
+      propertyPath: items.Array.data[2].id
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
+        type: 3}
+      propertyPath: items.Array.data[2].text
+      value: You have saved us all with the masks and disinfectant!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
+        type: 3}
+      propertyPath: items.Array.data[0].options.Array.data[0].text
+      value: I will go to Covidia. Maybe they found a cure.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
+        type: 3}
+      propertyPath: items.Array.data[0].options.Array.data[0].targetId
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
+        type: 3}
+      propertyPath: items.Array.data[0].options.Array.data[1].text
+      value: I found a cure!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
+        type: 3}
+      propertyPath: items.Array.data[0].options.Array.data[1].targetId
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6287312823791931665, guid: 5f8de6336a79ea94fb288c10b0edc92b,
         type: 3}
       propertyPath: m_Density
@@ -38644,7 +38689,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   items:
   - id: C1
-    text: You found the apples! Thanks a lot brave man!
+    text: With the masks and disinfectant, you have saved us all!!
     image: {fileID: 0}
     audio: {fileID: 0}
     quest: {fileID: 0}
@@ -38663,7 +38708,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   items:
   - id: B1
-    text: I cant wait for my beautiful apples...
+    text: Find a real cure!!
     image: {fileID: 0}
     audio: {fileID: 0}
     quest: {fileID: 0}
@@ -39582,7 +39627,7 @@ PrefabInstance:
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.3921595
+      value: -4.6983137
       objectReference: {fileID: 0}
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
@@ -40605,12 +40650,12 @@ PrefabInstance:
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -15.098046
+      value: -13.155278
       objectReference: {fileID: 0}
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.0033245848
       objectReference: {fileID: 0}
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
