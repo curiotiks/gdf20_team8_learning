@@ -111,7 +111,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4993317740938272194}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.48, y: -0.13, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children:
@@ -203,7 +203,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 1
-  m_Mass: 0.2828034
+  m_Mass: 0.20533766
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 0
@@ -258,8 +258,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0068097115, y: 0.15}
-  m_Size: {x: 0.3, y: 0.01}
+  m_Offset: {x: 0.0013290644, y: 0.066560686}
+  m_Size: {x: 0.24302888, y: 0.26338208}
   m_Direction: 0
 --- !u!1 &4993317741077100306
 GameObject:
@@ -302,7 +302,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4993317741077100306}
   serializedVersion: 6
-  lengthInSec: 5
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -377,7 +377,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 8
+      scalar: 7
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -430,7 +430,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 5
+      scalar: 4
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -487,8 +487,8 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.33962262, g: 0.33962262, b: 0.33962262, a: 0.6392157}
-        key1: {r: 0.7169812, g: 0.7169812, b: 0.7169812, a: 0.61960787}
+        key0: {r: 0.6981132, g: 0.6981132, b: 0.50975436, a: 0.53333336}
+        key1: {r: 0.5644744, g: 0.8490566, b: 0.5398718, a: 0.58431375}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -546,7 +546,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 7
+      scalar: 10
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -862,7 +862,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     randomizeRotationDirection: 0
-    maxNumParticles: 250
+    maxNumParticles: 180
     size3D: 0
     rotation3D: 0
     gravityModifier:
