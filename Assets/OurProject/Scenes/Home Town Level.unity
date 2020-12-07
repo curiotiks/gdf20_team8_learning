@@ -16638,7 +16638,7 @@ PrefabInstance:
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[3].second.m_AnimationSpeed
-      value: 3.0000002
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -16910,7 +16910,7 @@ PrefabInstance:
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[7].second.m_AnimationSpeed
-      value: 3.0000002
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -17268,7 +17268,7 @@ PrefabInstance:
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[9].second.m_AnimationSpeed
-      value: 3
+      value: 3.0000002
       objectReference: {fileID: 0}
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -17404,7 +17404,7 @@ PrefabInstance:
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[11].second.m_AnimationSpeed
-      value: 3
+      value: 3.0000002
       objectReference: {fileID: 0}
     - target: {fileID: 6576607644387126882, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -22746,7 +22746,7 @@ PrefabInstance:
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[4].second.m_AnimationSpeed
-      value: 3.0000002
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -23138,7 +23138,7 @@ PrefabInstance:
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[8].second.m_AnimationSpeed
-      value: 3.0000002
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -23236,7 +23236,7 @@ PrefabInstance:
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[9].second.m_AnimationSpeed
-      value: 3
+      value: 3.0000002
       objectReference: {fileID: 0}
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -23334,7 +23334,7 @@ PrefabInstance:
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[10].second.m_AnimationSpeed
-      value: 3.0000002
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -27846,7 +27846,7 @@ PrefabInstance:
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
       propertyPath: m_AnimatedTiles.Array.data[26].second.m_AnimationSpeed
-      value: 3
+      value: 3.0000002
       objectReference: {fileID: 0}
     - target: {fileID: 7195864304880846418, guid: a6ecdc63374074e6eb42a738a5683a91,
         type: 3}
@@ -38592,8 +38592,7 @@ PrefabInstance:
     - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
         type: 3}
       propertyPath: items.Array.data[1].text
-      value: You're the only Madam who has managed to rid her brothel of love lice.
-        Maybe you can help us conquer this new plague! Will you save us!
+      value: Maybe you can help us conquer this new plague! Will you save us!
       objectReference: {fileID: 0}
     - target: {fileID: 6287312823791931664, guid: 5f8de6336a79ea94fb288c10b0edc92b,
         type: 3}
@@ -39974,7 +39973,7 @@ PrefabInstance:
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.887166
+      value: -6.3321857
       objectReference: {fileID: 0}
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
@@ -40793,6 +40792,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 963087236}
     m_Modifications:
+    - target: {fileID: 3077305053366465614, guid: 5a9bc07f978bddf4e88f57b297fee81a,
+        type: 3}
+      propertyPath: items.Array.data[0].text
+      value: I'm 87 and ready to party! BOOOOYAH!
+      objectReference: {fileID: 0}
     - target: {fileID: 5776573771250299467, guid: 5a9bc07f978bddf4e88f57b297fee81a,
         type: 3}
       propertyPath: m_Name
@@ -40801,12 +40805,12 @@ PrefabInstance:
     - target: {fileID: 5776573771250299476, guid: 5a9bc07f978bddf4e88f57b297fee81a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.41
+      value: -9.4
       objectReference: {fileID: 0}
     - target: {fileID: 5776573771250299476, guid: 5a9bc07f978bddf4e88f57b297fee81a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.56
+      value: 3.01
       objectReference: {fileID: 0}
     - target: {fileID: 5776573771250299476, guid: 5a9bc07f978bddf4e88f57b297fee81a,
         type: 3}
@@ -40985,6 +40989,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Creepy Uncle Jim
       objectReference: {fileID: 0}
+    - target: {fileID: 4852184225507046395, guid: 2401815ee7e477941958132b6e953bfd,
+        type: 3}
+      propertyPath: items.Array.data[0].text
+      value: My whole family is dead. I have nothing to live for
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2401815ee7e477941958132b6e953bfd, type: 3}
 --- !u!4 &2451465451528926941 stripped
@@ -41003,7 +41012,7 @@ PrefabInstance:
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -16.484064
+      value: -17.73012
       objectReference: {fileID: 0}
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
